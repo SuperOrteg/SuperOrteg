@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Antoine</h1>
-<h3 align="center">A former GrowthMarketer, new born frontend developer out of TheHackingProject 6 months bootcamp</h3>
+<h3 align="center">A former GrowthMarketer, newborn frontend developer out of TheHackingProject 6 months bootcamp</h3>
 
 - 📫 How to reach me **antoine.teva.ortega@gmail.com**
 
