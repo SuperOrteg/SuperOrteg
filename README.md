@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Antoine</h1>
 <h3 align="center">A former GrowthMarketer, new born frontend developer out of TheHackingProject 6 months bootcamp</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=superorteg&label=Profile%20views&color=0e75b6&style=flat" alt="superorteg" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=superorteg" alt="superorteg" /></a> </p>
-
 - 📫 How to reach me **antoine.teva.ortega@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
