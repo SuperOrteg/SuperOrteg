@@ -13,7 +13,7 @@
 
 <h3 align="left">Projects so far</h3>
 
-[Ici](https://github.com/SLAF-Project/SLAF_Project)
+![Ici](https://github.com/SLAF-Project/SLAF_Project/blob/main/app/assets/images/logo-meta.jpg)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=superorteg&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="superorteg" /></p>
 
