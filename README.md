@@ -14,6 +14,7 @@
 <h3 align="left">Projects so far</h3>
 
 [<img src="https://github.com/SLAF-Project/SLAF_Project/blob/main/app/assets/images/logo-meta.jpg">](https://github.com/SLAF-Project/SLAF_Project)
+[Le SYNDICAT de lutte anti-franglais](https://github.com/SLAF-Project/SLAF_Project)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=superorteg&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="superorteg" /></p>
 
