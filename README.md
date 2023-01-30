@@ -6,8 +6,7 @@
 </p>
 
 <h3 align="left">EMAIL</h3>
-<p align="left">
-  **antoine@ni-corp.net**
+<p align="left"><a href="mailto:antoine@ni-corp.net" target="blank">antoine@ni-corp.net</a>
 </p>
 
 <h3 align="left">SOCIAL</h3>
