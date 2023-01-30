@@ -12,7 +12,6 @@
 <h3 align="left">SOCIAL</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/antoine-ortega/" target="blank">Linkedin</a>
-  </p>
-  <p align="left">
+<br/>
   <a href="https://twitter.com/superorteg38" target="blank">Twitter</a>
 </p>
